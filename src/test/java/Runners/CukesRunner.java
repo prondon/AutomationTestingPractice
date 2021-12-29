@@ -16,7 +16,7 @@ import io.cucumber.junit.CucumberOptions;
 		features = "src/test/resources/features", 
 		glue = "StepDefinitions", 
 		dryRun = false, 
-		tags = "@current"
+		tags = ""
 )
 
 public class CukesRunner {

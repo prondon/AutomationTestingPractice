@@ -69,7 +69,6 @@ Examples:
 |username|password|error|
 |""|""|"incorrect"|
 
-@current
 Scenario Outline: Login Authentication
 
 Given User enters registered username in username textbox
